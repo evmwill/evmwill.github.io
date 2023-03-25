@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Google Super Search</title>
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+        <h1>Google Super Search</h1>
+        <form action="https://www.google.com/search" method="GET" target="_blank">
+            <fieldset id="toplevelset">
+                <div>
+                    <label for="searchbox">Search String</label>
+                    <input type="text" name="q" id="searchbox">
+                </div>
+                <div>
+                    <label for="site">Select a Site</label>
+                    <select name="as_sitesearch" id="site">
+                        <option value="">--All Websites--</option>
+                        <option value="unco.edu">University of Northern Colorado</option>
+                        <option value="instructure.com">Canvas</option>
+                        <option value="w3schools.com">W3Schools</option>
+                        <option value="html.spec.whatwg.org">HTML Living Standard</option>
+                    </select>
+                </div>
+                <fieldset>
+                    <div>
+                        <input type="checkbox" name="newwindow" value="1" id="checkwindow">
+                        <label for="checkwindow">Open Links in New Window</label>
+                    </div>
+                </fieldset>
+            </fieldset>
+            <input type="submit" value="Search">
+        </form>
+    </body>
+</html>
