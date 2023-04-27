@@ -5,7 +5,7 @@ body {
 }  
 *
 {
-    color: #FFFAFA;
+    color: #c2a5a5;
     text-align: center;
 }
 h1
@@ -15,11 +15,11 @@ h1
 }
 nav
 {
-    border: 3px #FFFAFA solid;
+    border: 3px #c2a5a5 solid;
 }
 section
 {
-    border: 3px #FFFAFA solid;
+    border: 3px #c2a5a5 solid;
     margin: 5px;
 }
 .date
