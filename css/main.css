@@ -1,7 +1,7 @@
 :root
 
 body {
-  background-image: radial-gradient(red, green, blue); 
+    background-image: linear-gradient(to bottom right, #5F9EA0, #006400);
 }  
 *
 {
