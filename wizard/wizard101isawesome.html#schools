@@ -7,7 +7,10 @@
         <link rel="stylesheet" href="css/style.css">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Wizard 101 Schools</title>           
+        <title>Wizard 101 Schools</title>   
+        </head>
+        <nav>
+            <body>
            
            <img src="https://tiermaker.com/images/templates/1109101559994294.jpg" alt="Wizard 101 Schools"
          width= "400"
@@ -20,4 +23,5 @@
 The Astral Schools of Sun, Moon and Star are reserved for the strongest Wizards and are designed to work as supplementary spells.</li>
 
             </ul>
+            </body>
             
