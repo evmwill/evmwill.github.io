@@ -1,8 +1,8 @@
 :root
 
 body {
-    background-image: linear-gradient(to bottom right, #5F9EA0, #006400);
-}  
+  background-image: url("paper.gif");
+} 
 *
 {
     color: #c2a5a5;
