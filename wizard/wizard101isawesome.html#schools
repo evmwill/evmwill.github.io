@@ -1,9 +1,23 @@
-              <img src="https://kingsisletest.files.wordpress.com/2018/09/wizard.jpg" alt="Wizard 101"
-         width= "300"
-         height= "300">
+
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+        <link rel="stylesheet" href="css/style.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Wizard 101 Schools</title>           
+           
+           <img src="https://tiermaker.com/images/templates/1109101559994294.jpg" alt="Wizard 101 Schools"
+         width= "400"
+         height= "400">
         <section id="Info">
-            <h2>Info</h2>
+            <h2>Schools</h2>
             <ul>
-                <li>Wizard101 is a safe kids game that provides entertainment and magical, interactive fun. Choose from 7 schools of magic & explore 16 fantastic worlds of the Spiral. Fight Monsters. Collect Cool Pets. Create Your Castle. Fun for All Ages. Explore Magical Worlds. Learn Spells.</li>
+                <li>The magic of Fire, Ice, and Storm comes from ancient Titans that ruled the world in the Days Before. The magic of Myth, Life, and Death come from the power of the mind, body, and spirit of the Wizard casting them. The magic of Balance combines all of them.
+
+The Astral Schools of Sun, Moon and Star are reserved for the strongest Wizards and are designed to work as supplementary spells.</li>
 
             </ul>
+            
