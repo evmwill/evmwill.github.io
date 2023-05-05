@@ -1,1 +1,35 @@
-dfffdg
+:root
+
+body {
+    background-image: linear-gradient(to bottom right, #5F9EA0, #006400);
+}  
+*
+{
+    color: #c2a5a5;
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+    font-size: calc(12pt + 4vw);
+}
+nav
+{
+    border: 3px #c2a5a5 solid;
+}
+section
+{
+    border: 3px #c2a5a5 solid;
+    margin: 5px;
+}
+.date
+{
+    color: #239B5F;
+}
+li
+{
+    display: block;
+}
+img {
+  border: 5px solid #555;
+}
