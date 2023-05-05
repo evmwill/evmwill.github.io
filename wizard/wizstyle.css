@@ -1,8 +1,8 @@
 :root
 
 body {
-  background-image: url("wizbackground.png");
-} 
+    background-image: linear-gradient(to bottom right, #5F9EA0, #006400);
+}  
 *
 {
     color: #c2a5a5;
